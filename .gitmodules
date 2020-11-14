@@ -1,0 +1,36 @@
+[submodule "tools/gibMacOS"]
+	path = tools/gibMacOS
+	url = https://github.com/corpnewt/gibMacOS.git
+[submodule "tools/OpenCorePkg"]
+	path = tools/OpenCorePkg
+	url = https://github.com/acidanthera/OpenCorePkg.git
+[submodule "tools/OcBinaryData"]
+	path = tools/OcBinaryData
+	url = https://github.com/acidanthera/OcBinaryData.git
+[submodule "kext/repo/VirtualSMC"]
+	path = kext/repo/VirtualSMC
+	url = https://github.com/acidanthera/VirtualSMC.git
+[submodule "kext/repo/Lilu"]
+	path = kext/repo/Lilu
+	url = https://github.com/acidanthera/Lilu.git
+[submodule "kext/repo/WhateverGreen"]
+	path = kext/repo/WhateverGreen
+	url = https://github.com/acidanthera/WhateverGreen.git
+[submodule "kext/repo/IntelMausi"]
+	path = kext/repo/IntelMausi
+	url = https://github.com/acidanthera/IntelMausi.git
+[submodule "kext/repo/AppleALC"]
+	path = kext/repo/AppleALC
+	url = https://github.com/acidanthera/AppleALC.git
+[submodule "kext/repo/os-x-usb-inject-all"]
+	path = kext/repo/os-x-usb-inject-all
+	url = https://bitbucket.org/RehabMan/os-x-usb-inject-all.git
+[submodule "ssdt/repo/Getting-Started-With-ACPI"]
+	path = ssdt/repo/Getting-Started-With-ACPI
+	url = https://github.com/dortania/Getting-Started-With-ACPI.git
+[submodule "tools/ProperTree"]
+	path = tools/ProperTree
+	url = https://github.com/corpnewt/ProperTree.git
+[submodule "tools/GenSMBIOS"]
+	path = tools/GenSMBIOS
+	url = https://github.com/corpnewt/GenSMBIOS.git
